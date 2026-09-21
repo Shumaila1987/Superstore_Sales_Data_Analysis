@@ -119,3 +119,7 @@ Designed an interactive dashboard featuring:
 ---
 
 *Built with dedication and a passion for data analysis. Continuously learning, improving, and building real-world skills.* 🚀
+---
+**Shumaila**
+*Aspiring Data Analyst*
+United Kingdom 🇬🇧
