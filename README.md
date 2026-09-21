@@ -122,4 +122,4 @@ Designed an interactive dashboard featuring:
 ---
 **Shumaila**
 *Aspiring Data Analyst*
-United Kingdom 🇬🇧
+United Kingdom 
